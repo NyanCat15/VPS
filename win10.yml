@@ -7,7 +7,7 @@ services:
       USERNAME: "admin"
       PASSWORD: "Hello8751!"
       RAM_SIZE: "4G"
-      CPU_CORES: "4"
+      CPU_CORES: "2"
       DISK_SIZE: "400G"
       DISK2_SIZE: "100G"
     devices:
